@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Display Input App</string>
+    <string name="display_input_button_text">Display Input</string>
+    <string name="enter_input_here">Enter input here</string>
+    <string name="default_text">Default text</string>
+    <string name="display_your_input">display your input</string>
+    <string name="zuri_logo">Zuri logo</string>
+</resources>
